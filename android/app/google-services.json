@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192281411997",
+    "project_id": "indrayani-dfb85",
+    "storage_bucket": "indrayani-dfb85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192281411997:android:187feb9534f7af15796f74",
+        "android_client_info": {
+          "package_name": "com.indrayani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192281411997-q29imn342vft496qdcov1m2qmfokbe6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indrayani",
+            "certificate_hash": "e29df950ca57341d178841dabeb5fd18634de1bd"
+          }
+        },
+        {
+          "client_id": "192281411997-8p2edrdthudmsf00fhg2v2j9k09hi5n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJz9pAASQf8QfyHTkCwSe5PHtgY93zviM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192281411997-8p2edrdthudmsf00fhg2v2j9k09hi5n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
