@@ -18,7 +18,7 @@ class APIConfig {
         baseUrl = "";
         break;
       case AppEnvironment.development:
-        baseUrl = "http://3.110.51.62/api/";
+        baseUrl = "http://192.168.1.15:8000/api/"; //"http://3.110.51.62/api/";
         imagePath = "http://3.110.51.62/asset/exam_image/";
         infoImage = "http://3.110.51.62/asset/info_video_image/";
         //"http://192.168.1.10:8000/api/";
