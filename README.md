@@ -1,12 +1,11 @@
 # IndrayaniApp
 
 Discription - 
-As per discussion and presuming certain requirements we have prepared a rough outline of the
-proposal. Please find the details below. Dnyanjyoti Education wants to provide a facility for
-aspirants of the civil services. The user will be able to purchase and appear for the different
+Dnyanjyoti Education wants to provide a facility for aspirants of the civil services. The user will be able to purchase and appear for the different
 exams, one or more times.
 Modules
-Login and sign-up for users- Home page
+- Login and sign-up for users
+- Home page
 - Popular exams
 - Upcoming exams
 - My score
